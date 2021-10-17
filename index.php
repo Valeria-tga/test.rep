@@ -7,7 +7,12 @@
 	<title>Document</title>
 </head>
 <body>
+<h1>Test</h1>
+<div>
+	<?php
+	echo "Hello, world!";
 
-
+	?>
+</div>
 </body>
 </html>
